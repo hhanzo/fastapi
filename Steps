@@ -1,0 +1,9 @@
+1. Set up virtual environment in the project folder using "py -3 -m venv venv"
+2. Set up the python interpreter in VSCode "ctrl+shift+P" and passing the python path in the venv folder
+3. Activate the venv by running activate.bat file in terminal
+4. Install fast API in the venv
+5. Go to main - initialize the fastapi 
+6. Start the server using "uvicorn main:app" and check if the API is live
+7. Use "uvicorn main:app --reload" to automatically reload the site when any changes are made
+8. Path operation(route) - function to be executed 
+9. 
